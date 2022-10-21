@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;600&display=swap');
+
+* {
+    font-family: 'Cairo', sans-serif;
+}
+
+.text-center {
+    font-weight: 600;
+}
+
+.btn {
+    font-weight: 600;
+    width: 100%;
+}
+
+.result h3 {
+    color: red;
+    padding-bottom: 15px;
+    font-weight: 600;
+}
+
+.result {
+    font-weight: 600;
+    line-height: 2;
+}
