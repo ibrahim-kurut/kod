@@ -50,7 +50,7 @@ btn.addEventListener("click", function () {
       break;
 
     case "v88":
-      result.innerHTML = " V-88, çalışma izni bulunup çalışma izni iptal edilen yabancılara konulur. Çalışma izninin iptal nedenlerine göre para cezası ve Türkiye’ye giriş yasağı da konulabilir. Meşruhatlı davetiye, yeni bir çalışma izni başvurusu veya idari dava ile çözülmesi gerekir. " + "<br>" + "<hr>"
+      result.innerHTML = " V-88, çalışma izni bulunup çalışma izni iptal edilen yabancılara konulur. çalışma izninin iptal nedenlerine göre para cezası ve Türkiye’ye giriş yasağı da konulabilir. Meşruhatlı davetiye, yeni bir çalışma izni başvurusu veya idari dava ile çözülmesi gerekir. " + "<br>" + "<hr>"
       break;
 
     case "v91":
@@ -138,106 +138,106 @@ btn.addEventListener("click", function () {
       break;
 
     case "g87":
-      result.innerHTML = "<h3>Genel güvenlik açısından tehlike arz edilen kişiler</h3>" + " Yabancı kişiler hakkında emniyet istihbarat, milli istihbarat teşkilatı gibi bazı kaynaklara dayanılarak G-87 tahdit kodu konulabilmekte ve bu kişiler sınır dışı edilmektedirler  Burada uygulamada çoğu durumda karşılaştığımız istihbarat raporlarının gelişi güzel ve herhangi bir somut kanıta dayandırılmamasıdır. Çoğu durumda istihbarat, sadece şüpheye dayanarak yabancı kişi hakkında rapor oluşturup bunu Göç İdaresi’ne bildirmektedir. Bu durumlarda dava açılarak bu kodun kaldırılması mümkündür. Ayrıca G-87 kodu konulan bazı kişilerin sınır dışı edilmesiyle kendi ülkelerinde hayatları risk altında olmaktadır. Daha önce Anayasa Mahkemesi önüne gelen bir dava da hakkında G-87 tahdit kodu konulan kişinin sınır dışı edilmesi halinde hayatının risk altına gireceği ve kişinin genel güvenlik açısından kesin bir tehlike arz etmemesi nedenleri gerekçe gösterilerek bu işlem iptal edilmiş ve kişi sınır dışı edilmemiştir." + "<br>" + "<hr>"
+      result.innerHTML = "<h3>Genel güvenlik açısından tehlike arz edilen kişiler</h3>" + " Yabancı kişiler hakkında emniyet istihbarat, milli istihbarat teşkilatı gibi bazı kaynaklara dayanılarak G-87 tahdit kodu konulabilmekte ve bu kişiler sınır dışı edilmektedirler  Burada uygulamada çoğu durumda karşılaştığımız istihbarat raporlarının gelişi güzel ve herhangi bir somut kanıta dayandırılmamasıdır. çoğu durumda istihbarat, sadece şüpheye dayanarak yabancı kişi hakkında rapor oluşturup bunu Göç İdaresi’ne bildirmektedir. Bu durumlarda dava açılarak bu kodun kaldırılması mümkündür. Ayrıca G-87 kodu konulan bazı kişilerin sınır dışı edilmesiyle kendi ülkelerinde hayatları risk altında olmaktadır. Daha önce Anayasa Mahkemesi önüne gelen bir dava da hakkında G-87 tahdit kodu konulan kişinin sınır dışı edilmesi halinde hayatının risk altına gireceği ve kişinin genel güvenlik açısından kesin bir tehlike arz etmemesi nedenleri gerekçe gösterilerek bu işlem iptal edilmiş ve kişi sınır dışı edilmemiştir." + "<br>" + "<hr>"
       break;
 
 
 
 
-    case "Ç101":
-      result.innerHTML = "<h3>Vize, vize muafiyeti, ikamet, çalışma izni ihlali / 3 ay süreyle giriş yasağı</h3>" + " Ç-101; vize, vize muafiyeti, ikamet izni ve çalışma izni kurallarını ihlal eden yabancılara konulur. Bu kişilere ek olarak para cezası ve yurda giriş yasağı uygulanır. Meşruhatlı vize veya dava yolu ile çözülebilir ve aynı zamanda Türkiye’ye giriş yasağı kaldırılır." + "<br>" + "<hr>"
+    case "ç101":
+      result.innerHTML = "<h3>Vize, vize muafiyeti, ikamet, çalışma izni ihlali / 3 ay süreyle giriş yasağı</h3>" + " ç-101; vize, vize muafiyeti, ikamet izni ve çalışma izni kurallarını ihlal eden yabancılara konulur. Bu kişilere ek olarak para cezası ve yurda giriş yasağı uygulanır. Meşruhatlı vize veya dava yolu ile çözülebilir ve aynı zamanda Türkiye’ye giriş yasağı kaldırılır." + "<br>" + "<hr>"
       break;
 
-    case "Ç102":
-      result.innerHTML = "<h3>Vize, vize muafiyeti, ikamet, çalışma izni ihlali / 6 ay süreyle giriş yasağı</h3>" + " Ç-102; vize, vize muafiyeti, ikamet izni ve çalışma izni kurallarını ihlal eden yabancılara konulur. Bu kişilere ek olarak para cezası ve yurda giriş yasağı uygulanır. Meşruhatlı vize veya dava yolu ile çözülebilir ve aynı zamanda Türkiye’ye giriş yasağı kaldırılı " + "<br>" + "<hr>"
+    case "ç102":
+      result.innerHTML = "<h3>Vize, vize muafiyeti, ikamet, çalışma izni ihlali / 6 ay süreyle giriş yasağı</h3>" + " ç-102; vize, vize muafiyeti, ikamet izni ve çalışma izni kurallarını ihlal eden yabancılara konulur. Bu kişilere ek olarak para cezası ve yurda giriş yasağı uygulanır. Meşruhatlı vize veya dava yolu ile çözülebilir ve aynı zamanda Türkiye’ye giriş yasağı kaldırılı " + "<br>" + "<hr>"
       break;
 
-    case "Ç103":
-      result.innerHTML = "<h3>Vize, vize muafiyeti, ikamet, çalışma izni ihlali / 1 yıl süreyle giriş yasağı</h3>" + " Ç-103; vize, vize muafiyeti, ikamet izni ve çalışma izni kurallarını ihlal eden yabancılara konulur. Bu kişilere ek olarak para cezası ve yurda giriş yasağı uygulanır. Meşruhatlı vize veya dava yolu ile çözülebilir ve aynı zamanda Türkiye’ye giriş yasağı kaldırılır." + "<br>" + "<hr>"
+    case "ç103":
+      result.innerHTML = "<h3>Vize, vize muafiyeti, ikamet, çalışma izni ihlali / 1 yıl süreyle giriş yasağı</h3>" + " ç-103; vize, vize muafiyeti, ikamet izni ve çalışma izni kurallarını ihlal eden yabancılara konulur. Bu kişilere ek olarak para cezası ve yurda giriş yasağı uygulanır. Meşruhatlı vize veya dava yolu ile çözülebilir ve aynı zamanda Türkiye’ye giriş yasağı kaldırılır." + "<br>" + "<hr>"
       break;
 
-    case "Ç104":
-      result.innerHTML = "<h3>Vize, vize muafiyeti, ikamet, çalışma izni ihlali / 2 yıl süreyle giriş yasağı</h3>" + " Ç-104; vize, vize muafiyeti, ikamet izni ve çalışma izni kurallarını ihlal eden yabancılara konulur. Bu kişilere ek olarak para cezası ve yurda giriş yasağı uygulanır. Meşruhatlı vize veya dava yolu ile çözülebilir ve aynı zamanda Türkiye’ye giriş yasağı kaldırılır." + "<br>" + "<hr>"
-      break;
-
-
-    case "Ç105":
-      result.innerHTML = "<h3>Vize, vize muafiyeti, ikamet, çalışma izni ihlali / 5 yıl süreyle giriş yasağı</h3>" + " Ç-105; vize, vize muafiyeti, ikamet izni ve çalışma izni kurallarını ihlal eden yabancılara konulur. Bu kişilere ek olarak para cezası ve yurda giriş yasağı uygulanır. Meşruhatlı vize veya dava yolu ile çözülebilir ve aynı zamanda Türkiye’ye giriş yasağı kaldırılır." + "<br>" + "<hr>"
+    case "ç104":
+      result.innerHTML = "<h3>Vize, vize muafiyeti, ikamet, çalışma izni ihlali / 2 yıl süreyle giriş yasağı</h3>" + " ç-104; vize, vize muafiyeti, ikamet izni ve çalışma izni kurallarını ihlal eden yabancılara konulur. Bu kişilere ek olarak para cezası ve yurda giriş yasağı uygulanır. Meşruhatlı vize veya dava yolu ile çözülebilir ve aynı zamanda Türkiye’ye giriş yasağı kaldırılır." + "<br>" + "<hr>"
       break;
 
 
-
-    case "Ç113":
-      result.innerHTML = "<h3> Yasadışı giriş-çıkış yapanlar </h3>" + " Türkiye’ye yasadışı giriş yapan yabancılar hakkında Ç-113 tahdit kodu konularak 2 yıl boyunca Türkiye’ye girişleri engellenir ve ayrıca idari para cezası kesilir. İdari para cezası ödenirse Türkiye’ye sadece 2 yıl boyunca giriş yapılamaz ancak idari para cezası ödenmezse 2 yıla ek olarak 5 yıl daha Türkiye’ye giriş engellenir. İdari para cezası da bir idari işlem olduğu için yargı yolu açıktır. Doğru zamanda doğru mahkemede dava açılması gereki " + "<br>" + "<hr>"
+    case "ç105":
+      result.innerHTML = "<h3>Vize, vize muafiyeti, ikamet, çalışma izni ihlali / 5 yıl süreyle giriş yasağı</h3>" + " ç-105; vize, vize muafiyeti, ikamet izni ve çalışma izni kurallarını ihlal eden yabancılara konulur. Bu kişilere ek olarak para cezası ve yurda giriş yasağı uygulanır. Meşruhatlı vize veya dava yolu ile çözülebilir ve aynı zamanda Türkiye’ye giriş yasağı kaldırılır." + "<br>" + "<hr>"
       break;
 
 
-    case "Ç114":
+
+    case "ç113":
+      result.innerHTML = "<h3> Yasadışı giriş-çıkış yapanlar </h3>" + " Türkiye’ye yasadışı giriş yapan yabancılar hakkında ç-113 tahdit kodu konularak 2 yıl boyunca Türkiye’ye girişleri engellenir ve ayrıca idari para cezası kesilir. İdari para cezası ödenirse Türkiye’ye sadece 2 yıl boyunca giriş yapılamaz ancak idari para cezası ödenmezse 2 yıla ek olarak 5 yıl daha Türkiye’ye giriş engellenir. İdari para cezası da bir idari işlem olduğu için yargı yolu açıktır. Doğru zamanda doğru mahkemede dava açılması gereki " + "<br>" + "<hr>"
+      break;
+
+
+    case "ç114":
       result.innerHTML = "<h3> Haklarında adli işlem yapılan yabancılar </h3>" + " Türkiye’deyken herhangi adli bir işleme konu olmanız halinde suçlu olup olmamanıza bakılmaksızın hakkınızda 1 yıl boyunca Türkiye’ye giriş yasağı uygulanacaktır. İdari dava ile çözümü mümkündür. " + "<br>" + "<hr>"
       break;
 
-    case "Ç115":
+    case "ç115":
       result.innerHTML = "<h3> Ceza evinden tahliye olan yabancılar </h3>" + " Suç işleyip de Türkiye’de hapis cezasını tamamlayanlar hakkında 1 yıl süreyle Türkiye’ye girişleri yasağı konulur. İdari dava ile çözümü mümkündür. " + "<br>" + "<hr>"
       break;
 
 
-    case "Ç116":
+    case "ç116":
       result.innerHTML = "<h3> Genel ahlak ve kamu sağlığını tehlikeye atan yabancılar </h3>" + " Genel ahlaka aykırı davranan veya kamu sağlığını tehlikeye atan yabancıların Türkiye’ye tekrardan girişleri 1 boyunca engellenir Barlar, gece klüpleri vb. eğlence yerlerinden alınan yabancı kadınlar hakkında kolluk kuvvetlerince yakalama tutanağına ‘fuhuş yapmak amacıyla mekâna geldiği değerlendirilmektedir’ şeklinde yazılmakta ve sırf bu ifade ile yabancı kadınların ikamet ya da çalışma izinleri iptal edilmekte ve yabancılar bu sebeple sınır dışı edilebilmektedir Hiçbir fuhuş durumu olmadığı halde maalesef uygulamada bu gibi örneklerle çok karşılaşmaktayız. Bu konuda açtığımız davalarda olumlu sonuç almaktayız.  " + "<br>" + "<hr>"
       break;
 
 
 
-    case "Ç117":
-      result.innerHTML = "<h3> Kaçak çalışanlar </h3>" + " Türkiye’de kaçak çalışan yabancılar hakkında Ç-117 tahdit kodu konularak 1 yıl süreyle Türkiye’ye tekrardan girişleri engellenir. Ayrıca idari para cezası uygulanır. Meşruhatlı vize yöntemi ile çözülebilir. " + "<br>" + "<hr>"
+    case "ç117":
+      result.innerHTML = "<h3> Kaçak çalışanlar </h3>" + " Türkiye’de kaçak çalışan yabancılar hakkında ç-117 tahdit kodu konularak 1 yıl süreyle Türkiye’ye tekrardan girişleri engellenir. Ayrıca idari para cezası uygulanır. Meşruhatlı vize yöntemi ile çözülebilir. " + "<br>" + "<hr>"
       break;
 
-    case "Ç118":
-      result.innerHTML = "<h3> İkamet izni iptal edilenler </h3>" + " Türkiye’de ikamet izni alan yabancıların, ikamet iznini başka amaçlarla kullandıkları tespit edildiğinde haklarında Ç-118 tahdit kodu uygulanarak Türkiye’ye 5 yıl boyunca girişleri engellenir. Meşruhatlı vize alınarak tekrardan Türkiye’ye giriş sağlanabilir." + "<br>" + "<hr>"
-      break;
-
-
-    case "Ç119":
-      result.innerHTML = "<h3> Kaçak çalışanların para cezasını ödememesi </h3>" + " Türkiye’de kaçak çalışan yabancılara, verilen idari para cezasının Türkiye’den çıkış yaparken ödenmemesi halinde Ç-119 tahdit kodu işlenerek 5 yıl boyunca Türkiye’ye girişleri engellenir. Meşruhatlı vize yöntemi ile durum çözülebilir." + "<br>" + "<hr>"
-      break;
-
-    case "Ç120":
-      result.innerHTML = "<h3> Vize veya ikamet ihlalinden kaynaklanan para cezasının ödenmemesi </h3>" + " Vize veya ikamet ihlali yapan yabancılar hakkında uygulanan idari para cezasının Türkiye’den çıkış yaparken ödenmemesi halinde kişi hakkında Ç-120 tahdit kodu işlenerek 5 yıl süreyle tekrardan Türkiye’ye giriş yapması engellenir. Esasen yukarıda da izah ettiğimiz üzere vize ihlali halinde uygulanacak yaptırımlar yeni düzenleme ile çeşitlendirilmiştir. Vize ihlalinin geniş bir konu olması nedeni ile bu konuda ayrı bir yazı yazdık. Yukarıda konu linkini vermiştik. " + "<br>" + "<hr>"
+    case "ç118":
+      result.innerHTML = "<h3> İkamet izni iptal edilenler </h3>" + " Türkiye’de ikamet izni alan yabancıların, ikamet iznini başka amaçlarla kullandıkları tespit edildiğinde haklarında ç-118 tahdit kodu uygulanarak Türkiye’ye 5 yıl boyunca girişleri engellenir. Meşruhatlı vize alınarak tekrardan Türkiye’ye giriş sağlanabilir." + "<br>" + "<hr>"
       break;
 
 
-    case "Ç135":
-      result.innerHTML = "<h3> Yabancılar ve uluslararası koruma kanuna aykırı davrananlar </h3>" + " Yabancılar ve uluslararası koruma kanuna aykırı davranan yabancılara idari para cezası uygulanır. Bu para cezasının ödenmemesi halinde haklarında Ç-135 tahdit kodu konularak 5 yıl süreyle Türkiye’ye giriş yapmaları engellenir. Meşruhatlı vize alınarak kod kaldırılabilir. " + "<br>" + "<hr>"
+    case "ç119":
+      result.innerHTML = "<h3> Kaçak çalışanların para cezasını ödememesi </h3>" + " Türkiye’de kaçak çalışan yabancılara, verilen idari para cezasının Türkiye’den çıkış yaparken ödenmemesi halinde ç-119 tahdit kodu işlenerek 5 yıl boyunca Türkiye’ye girişleri engellenir. Meşruhatlı vize yöntemi ile durum çözülebilir." + "<br>" + "<hr>"
+      break;
+
+    case "ç120":
+      result.innerHTML = "<h3> Vize veya ikamet ihlalinden kaynaklanan para cezasının ödenmemesi </h3>" + " Vize veya ikamet ihlali yapan yabancılar hakkında uygulanan idari para cezasının Türkiye’den çıkış yaparken ödenmemesi halinde kişi hakkında ç-120 tahdit kodu işlenerek 5 yıl süreyle tekrardan Türkiye’ye giriş yapması engellenir. Esasen yukarıda da izah ettiğimiz üzere vize ihlali halinde uygulanacak yaptırımlar yeni düzenleme ile çeşitlendirilmiştir. Vize ihlalinin geniş bir konu olması nedeni ile bu konuda ayrı bir yazı yazdık. Yukarıda konu linkini vermiştik. " + "<br>" + "<hr>"
+      break;
+
+
+    case "ç135":
+      result.innerHTML = "<h3> Yabancılar ve uluslararası koruma kanuna aykırı davrananlar </h3>" + " Yabancılar ve uluslararası koruma kanuna aykırı davranan yabancılara idari para cezası uygulanır. Bu para cezasının ödenmemesi halinde haklarında ç-135 tahdit kodu konularak 5 yıl süreyle Türkiye’ye giriş yapmaları engellenir. Meşruhatlı vize alınarak kod kaldırılabilir. " + "<br>" + "<hr>"
       break;
 
 
 
-    case "Ç136":
-      result.innerHTML = "<h3> Terke davet edilen yabancılar </h3>" + " Göç idaresi tarafından belirli süreler içerisinde Türkiye’yi terke davet edilen yabancıların bu sürelerde Türkiye’yi davet etmemesi halinde haklarında Ç-137 tahdit kodu işlenerek Türkiye’ye 5 yıl boyunca girişleri engellenir. Meşruhatlı vize ile yeniden Türkiye’ye giriş sağlanabilir. Ayrıca idare mahkemesinde dava açılarak hiç Türkiye’den çıkmaması sağlanabilir. " + "<br>" + "<hr>"
+    case "ç136":
+      result.innerHTML = "<h3> Terke davet edilen yabancılar </h3>" + " Göç idaresi tarafından belirli süreler içerisinde Türkiye’yi terke davet edilen yabancıların bu sürelerde Türkiye’yi davet etmemesi halinde haklarında ç-137 tahdit kodu işlenerek Türkiye’ye 5 yıl boyunca girişleri engellenir. Meşruhatlı vize ile yeniden Türkiye’ye giriş sağlanabilir. Ayrıca idare mahkemesinde dava açılarak hiç Türkiye’den çıkmaması sağlanabilir. " + "<br>" + "<hr>"
       break;
 
-    case "Ç137":
-      result.innerHTML = "<h3> Seyahat masraflarını ödemeyenler </h3>" + " Yabancıların sınır dışı edilirken seyahat masraflarını kendileri tarafından karşılanamaması halinde Türkiye Cumhuriyeti tarafından karşılanır ve Ç-136 tahdit kodu işlenerek tekrar giriş yapabilmesi için bu masrafların ödenmesi istenir. " + "<br>" + "<hr>"
+    case "ç137":
+      result.innerHTML = "<h3> Seyahat masraflarını ödemeyenler </h3>" + " Yabancıların sınır dışı edilirken seyahat masraflarını kendileri tarafından karşılanamaması halinde Türkiye Cumhuriyeti tarafından karşılanır ve ç-136 tahdit kodu işlenerek tekrar giriş yapabilmesi için bu masrafların ödenmesi istenir. " + "<br>" + "<hr>"
       break;
 
 
-    case "Ç138":
-      result.innerHTML = "<h3>İNAD yolcu</h3>" + " Türkiye’ye giriş yapması yasak olan yabancıların, ülkeye giriş yaparken bu durumlarının fark edilmesi halinde haklarında Ç-138 tahdit kodu işlenerek 5 yıla kadar Türkiye’ye girişleri engellenebilir. Duruma göre dava açılması gerekebilir." + "<br>" + "<hr>"
+    case "ç138":
+      result.innerHTML = "<h3>İNAD yolcu</h3>" + " Türkiye’ye giriş yapması yasak olan yabancıların, ülkeye giriş yaparken bu durumlarının fark edilmesi halinde haklarında ç-138 tahdit kodu işlenerek 5 yıla kadar Türkiye’ye girişleri engellenebilir. Duruma göre dava açılması gerekebilir." + "<br>" + "<hr>"
       break;
 
-    case "Ç141":
-      result.innerHTML = "<h3>Türkiye’ye girişi bakanlık iznine tabi yabancı</h3>" + "Ç 141, Türkiye’de yada yurt dışında Türkiye aleyhine işlemiş olduğu adli yada idari kanun ihlalinden dolayı ülkemize girişi “İÇ İŞLERİ BAKANLIĞI” tarafından yabancının pasaport bilgilerine, Türkiye’den sınır dışı edilirken yada giriş yapmadan önce alınan istihbarat bilgisi doğrultusunda Göç İdaresi tarafından uygulanan tahdit kodudur. Giriş için bakanlıktan izin alınmalıdır. İzin verilmez ise bakanlıktan gelecek cevaba göre farklı hukuki yollara başvurulabili Ancak N-82 kodunda olduğu gibi, bu izin uygulamada hemen hemen hiç izin verilmemektedir. Bu durum ülkeye giriş yasağının bir uygulamasıdır. Bu durumda dava açılıp kod iptal edilmeden yabancının Türkiye’ye girmesi uygulamada pek mümkün değildir." + "<br>" + "<hr>"
+    case "ç141":
+      result.innerHTML = "<h3>Türkiye’ye girişi bakanlık iznine tabi yabancı</h3>" + "ç 141, Türkiye’de yada yurt dışında Türkiye aleyhine işlemiş olduğu adli yada idari kanun ihlalinden dolayı ülkemize girişi “İç İŞLERİ BAKANLIĞI” tarafından yabancının pasaport bilgilerine, Türkiye’den sınır dışı edilirken yada giriş yapmadan önce alınan istihbarat bilgisi doğrultusunda Göç İdaresi tarafından uygulanan tahdit kodudur. Giriş için bakanlıktan izin alınmalıdır. İzin verilmez ise bakanlıktan gelecek cevaba göre farklı hukuki yollara başvurulabili Ancak N-82 kodunda olduğu gibi, bu izin uygulamada hemen hemen hiç izin verilmemektedir. Bu durum ülkeye giriş yasağının bir uygulamasıdır. Bu durumda dava açılıp kod iptal edilmeden yabancının Türkiye’ye girmesi uygulamada pek mümkün değildir." + "<br>" + "<hr>"
       break;
 
-    case "Ç150":
-      result.innerHTML = "<h3>Sahte belge ile giriş yapmaya çalışanlar</h3>" + " Ç-150, Türkiye’ye girişleri sırasında sahte belge ibraz eden yabancılara konulan koddur. Meşruhatlı vize veya bazı durumlarda dava yolu ile kaldırılabilir. " + "<br>" + "<hr>"
+    case "ç150":
+      result.innerHTML = "<h3>Sahte belge ile giriş yapmaya çalışanlar</h3>" + " ç-150, Türkiye’ye girişleri sırasında sahte belge ibraz eden yabancılara konulan koddur. Meşruhatlı vize veya bazı durumlarda dava yolu ile kaldırılabilir. " + "<br>" + "<hr>"
       break;
 
-    case "Ç151":
-      result.innerHTML = "<h3>Göçmen kaçakçısı/insan taciri</h3>" + " Ç-151, göçmen kaçakçısı suçunu işleyen veya işlediği şüphesi bulunan yabancılara konulan koddur. Ancak dava yolu ile kaldırılabilir. " + "<br>" + "<hr>"
+    case "ç151":
+      result.innerHTML = "<h3>Göçmen kaçakçısı/insan taciri</h3>" + " ç-151, göçmen kaçakçısı suçunu işleyen veya işlediği şüphesi bulunan yabancılara konulan koddur. Ancak dava yolu ile kaldırılabilir. " + "<br>" + "<hr>"
       break;
 
-    case "Ç152":
-      result.innerHTML = "<h3>Ülkeye girişi ihtiyaten engellenen yabancılar</h3>" + " Ç-152, ülkeye girişi ihtiyaten (her olasılığa karşı) engellenen yabancılara konulur. Bu kod dava veya meşruhatlı vize ile kaldırılabilir. " + "<br>" + "<hr>"
+    case "ç152":
+      result.innerHTML = "<h3>Ülkeye girişi ihtiyaten engellenen yabancılar</h3>" + " ç-152, ülkeye girişi ihtiyaten (her olasılığa karşı) engellenen yabancılara konulur. Bu kod dava veya meşruhatlı vize ile kaldırılabilir. " + "<br>" + "<hr>"
       break;
 
     case "k":
